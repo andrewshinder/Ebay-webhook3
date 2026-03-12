@@ -1,0 +1,19 @@
+{
+  "name": "ebay-webhook-server",
+  "version": "1.1.0",
+  "description": "FIXED eBay Marketplace Account Deletion Webhook - Handles GET and POST",
+  "main": "FIXED-ebay-webhook.js",
+  "scripts": {
+    "start": "node FIXED-ebay-webhook.js",
+    "dev": "node FIXED-ebay-webhook.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["ebay", "webhook", "marketplace", "api", "pokemon", "cards", "fixed"],
+  "author": "Pokemon Card Price Research",
+  "license": "MIT"
+}
